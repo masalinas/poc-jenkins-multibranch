@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                sh 'echo Mater pipeline executed'
+                sh 'echo Develop pipeline executed'
             }
         }
     }
